@@ -1,0 +1,11 @@
+header("Location:login.php");
+
+echo '<script>alert("Welcome to Geeks for Geeks")</script>';
+
+echo '<script>alert("Registered Successfully")</script>';
+
+Asia/Kolkata
+
+date_default_timezone_set("Asia/Bangkok");
+
+date_default_timezone_set("Asia/Kolkata");
